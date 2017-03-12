@@ -1,0 +1,70 @@
+.bg-faded {
+    background-color: #17A453;
+    padding-bottom:0;
+}
+
+.container-fluid{
+    padding-left:0;
+    padding-right:0;
+}
+
+.TerryWhiteChemmart_logo_svg{
+    height:5rem;
+}
+
+.navbar-toggler-right{
+    position: absolute;
+    right: 1rem;
+    top:1.5rem;
+}
+
+.navbar-nav {
+  font-size:20px;
+    padding-right:15px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color:white;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color:#1B5E20;
+}
+
+.location_icon{
+    width: 24px;
+    height: 40px;
+    margin-right: 3px;
+    position: relative;
+    top: 7px;
+}
+.shopping_img{
+    height: 140px;
+    width: 140px;
+}
+
+.tw_medication{
+    height: 300px;
+    width: 350px;
+}
+
+.colorformodal{
+    background-color: #66BB6A;
+}
+
+.footer_backgroundcolor{
+    background-color: #17A453;
+}
+
+.footer_textstyle{
+    color: white;
+}
+
+a:hover {
+    color:#1B5E20;
+}
+
+.socialmedia_svg{
+    height: 5rem;
+    width: 2.5rem;
+}
