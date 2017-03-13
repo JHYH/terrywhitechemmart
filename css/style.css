@@ -1,3 +1,8 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
 .bg-faded {
     background-color: #17A453;
     padding-bottom:0;
@@ -62,9 +67,36 @@
 
 a:hover {
     color:#1B5E20;
+    text-decoration: none;
 }
 
 .socialmedia_svg{
     height: 5rem;
     width: 2.5rem;
 }
+
+.nav-tabs .nav-link.active {
+    background-color: transparent;
+}
+
+.button-action{
+    background-color: #388E3C;
+}
+
+.fa-inverse:hover{
+    color:#1B5E20;
+}
+
+.rss_button{
+    background-color: #388E3C;
+}
+
+/* color pattern */
+.dark-primary-color    { background: #388E3C; }
+.default-primary-color { background: #4CAF50; }
+.light-primary-color   { background: #C8E6C9; }
+.text-primary-color    { color: #FFFFFF; }
+.accent-color          { background: #9E9E9E; }
+.primary-text-color    { color: #212121; }
+.secondary-text-color  { color: #757575; }
+.divider-color         { border-color: #BDBDBD; }
